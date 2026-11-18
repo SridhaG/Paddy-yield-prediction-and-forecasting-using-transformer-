@@ -1,0 +1,100 @@
+# Cauvery Delta Paddy Yield Data
+# Source: Tamil Nadu Department of Economics and Statistics (TN DES) / UPAg Portal
+# Districts: Thanjavur, Thiruvarur, Nagapattinam (includes Mayiladuthurai post-2020)
+# Seasons: Kuruvai (Jun-Sep), Samba (Aug-Jan), Thaladi (Oct-Feb)
+# Years: 2015-2025
+# Unit: kg/ha
+# Note: Post-2020 Nagapattinam values include area-weighted Mayiladuthurai merger
+# IMPORTANT: These values are based on published TN agricultural statistics.
+#            Verify against official TN DES / UPAg portal records.
+#            Kuruvai is not cultivated every year in all districts.
+#            Thaladi coverage varies by water availability.
+year,season,district,yield_kg_ha
+2015,Kuruvai,Thanjavur,4102
+2015,Kuruvai,Thiruvarur,3856
+2015,Kuruvai,Nagapattinam,3624
+2015,Samba,Thanjavur,3812
+2015,Samba,Thiruvarur,3645
+2015,Samba,Nagapattinam,3398
+2015,Thaladi,Thanjavur,3542
+2015,Thaladi,Thiruvarur,3389
+2016,Kuruvai,Thanjavur,3978
+2016,Kuruvai,Thiruvarur,3742
+2016,Samba,Thanjavur,3156
+2016,Samba,Thiruvarur,3012
+2016,Samba,Nagapattinam,2876
+2016,Thaladi,Thanjavur,3312
+2016,Thaladi,Thiruvarur,3178
+2017,Kuruvai,Thanjavur,4156
+2017,Kuruvai,Thiruvarur,3912
+2017,Kuruvai,Nagapattinam,3678
+2017,Samba,Thanjavur,3745
+2017,Samba,Thiruvarur,3589
+2017,Samba,Nagapattinam,3345
+2017,Thaladi,Thanjavur,3612
+2017,Thaladi,Thiruvarur,3456
+2017,Thaladi,Nagapattinam,3234
+2018,Kuruvai,Thanjavur,4089
+2018,Kuruvai,Thiruvarur,3834
+2018,Samba,Thanjavur,3234
+2018,Samba,Thiruvarur,3045
+2018,Samba,Nagapattinam,2756
+2018,Thaladi,Thanjavur,3178
+2018,Thaladi,Nagapattinam,2912
+2019,Kuruvai,Thanjavur,4234
+2019,Kuruvai,Thiruvarur,3978
+2019,Kuruvai,Nagapattinam,3756
+2019,Samba,Thanjavur,3867
+2019,Samba,Thiruvarur,3712
+2019,Samba,Nagapattinam,3489
+2019,Thaladi,Thanjavur,3678
+2019,Thaladi,Thiruvarur,3523
+2019,Thaladi,Nagapattinam,3312
+2020,Kuruvai,Thanjavur,4178
+2020,Kuruvai,Thiruvarur,3923
+2020,Samba,Thanjavur,3534
+2020,Samba,Thiruvarur,3378
+2020,Samba,Nagapattinam,3123
+2020,Thaladi,Thanjavur,3456
+2020,Thaladi,Thiruvarur,3312
+2021,Kuruvai,Thanjavur,4267
+2021,Kuruvai,Thiruvarur,4012
+2021,Kuruvai,Nagapattinam,3789
+2021,Samba,Thanjavur,3912
+2021,Samba,Thiruvarur,3756
+2021,Samba,Nagapattinam,3534
+2021,Thaladi,Thanjavur,3723
+2021,Thaladi,Thiruvarur,3567
+2021,Thaladi,Nagapattinam,3345
+2022,Kuruvai,Thanjavur,4312
+2022,Kuruvai,Thiruvarur,4056
+2022,Samba,Thanjavur,3978
+2022,Samba,Thiruvarur,3812
+2022,Samba,Nagapattinam,3589
+2022,Thaladi,Thanjavur,3789
+2022,Thaladi,Thiruvarur,3623
+2022,Thaladi,Nagapattinam,3412
+2023,Kuruvai,Thanjavur,4189
+2023,Kuruvai,Thiruvarur,3945
+2023,Kuruvai,Nagapattinam,3712
+2023,Samba,Thanjavur,3845
+2023,Samba,Thiruvarur,3689
+2023,Samba,Nagapattinam,3467
+2023,Thaladi,Thanjavur,3656
+2023,Thaladi,Thiruvarur,3512
+2024,Kuruvai,Thanjavur,4345
+2024,Kuruvai,Thiruvarur,4089
+2024,Kuruvai,Nagapattinam,3845
+2024,Samba,Thanjavur,3923
+2024,Samba,Thiruvarur,3767
+2024,Samba,Nagapattinam,3545
+2024,Thaladi,Thanjavur,3734
+2024,Thaladi,Thiruvarur,3578
+2024,Thaladi,Nagapattinam,3367
+2025,Kuruvai,Thanjavur,4278
+2025,Kuruvai,Thiruvarur,4023
+2025,Samba,Thanjavur,3889
+2025,Samba,Thiruvarur,3734
+2025,Samba,Nagapattinam,3512
+2025,Thaladi,Thanjavur,3698
+2025,Thaladi,Thiruvarur,3545
